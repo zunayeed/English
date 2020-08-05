@@ -1,0 +1,3 @@
+- “is preceded by” = “comes after” = [2] ← [1] (replace phrase by “comes after” or an arrow/←)
+  - ex 1: “2 is preceded by 1” = “2 comes after 1” = “2 ← 1” (1 then 2) = 1, 2
+  - ex 2: “A is preceded by B” = “A comes after B” = “A ← B” (B then A) = B, A
