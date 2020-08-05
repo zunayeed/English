@@ -5,3 +5,5 @@
 
   - ex 1: “1 is followed by 2” = “1 then 2” = “1 → 2” = 1, 2
   - ex 2: “A is followed by B” = “A then B” = “A → B” = A, B
+- A precedes B — A happened first.
+- A preceded by B — B happened first.
