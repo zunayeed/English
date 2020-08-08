@@ -8,3 +8,10 @@
   - ex 2: “A is followed by B” = “A then B” = “A → B” = A, B
 - A precedes B — A happened first.
 - A preceded by B — B happened first.
+--------------------------------------------------------------------------------------
+- turn to sb/sth: __to ask a person or organization for help or support.__
+  - Without someone to turn to for advice, making the most appropriate choice can be difficult.
+  - Her family lived a long way away, and she had no one to turn to.
+  - I have always been able to turn to my parents when I've had a problem.
+  - He felt he had no-one to turn to.
+  - He turned to his friend for financial support.
